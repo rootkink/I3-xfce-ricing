@@ -5,6 +5,7 @@ A clean and minimal desktop environment:
 - xcompmgr for lightweight transparency
 - neovim with custom theme
 - Catppuccin color scheme across all components
+- Wallpaper [interstellar_black_hole](https://www.reddit.com/r/ImageGoNord/comments/1f1if0s/3840_2160_interstellar_black_hole/)
 
 > Note: This setup is running inside a VirtualBox VM. xcompmgr was used instead of picom due to GLX support issues in the virtualized environment.
 ---
@@ -15,3 +16,4 @@ A clean and minimal desktop environment:
 ---
 ![image](https://github.com/user-attachments/assets/1faff054-ae1c-49cd-b8f1-8a1380074a57)
 ---
+
